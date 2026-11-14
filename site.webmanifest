@@ -7,6 +7,6 @@
 	],
 	"theme_color": "#ffffff",
 	"background_color": "#ffffff",
-	"start_url": "https://filisa.github.io/team-4-fun-game-project/",
+	"start_url": "./",
 	"display": "standalone"
 }
